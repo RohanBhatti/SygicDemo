@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sygic Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="premission_title">Permission Required !</string>
+    <string name="permission_desc">Storage access is required to download the file.</string>
+    <string name="permission_manual">Storage access is required to download the file.\nTo give access to storage you need to do it manually from your phone Settings  ->  Permissions  ->  Storage  ->  Enable.</string>
+
+</resources>
